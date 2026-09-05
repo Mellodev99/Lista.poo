@@ -1,4 +1,4 @@
-numero = int(input('Digite um número inteiro não negativo: '))
+numero = int(input('Digite um número inteiro positivo: '))
 
 fatorial = 1
 

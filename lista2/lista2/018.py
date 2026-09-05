@@ -12,7 +12,7 @@ inventario = {
     'CAT003': {
         'equipamento': 'multimero',
         'marca': 'vonder',
-        'situacao': 'em manutencao'
+        'situacao': 'em manutencao'  #reutilizei o mesmo dicionario na lista 3
     }
 
 }

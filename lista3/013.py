@@ -44,8 +44,8 @@ while True:
         print('Opção inválida!')
         continue
 
-    continuar = input('\nDeseja realizar outra conversão? (s/n): ').lower()
+    continuar = input('\n deseja realizar outra conversão? (s/n): ').lower()
 
     if continuar == 'n':
-        print('Programa encerrado!')
+        print('programa encerrado!')
         break
